@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class Exibir {
 
   public static double calcular_media(double a,double b, double c) {
-return (a+b+c)/3;
+return (a + b + c) / 3;
 }
 
 
